@@ -1,6 +1,8 @@
 # Wiki-img
 
 Easily download wikipedia images in NodeJS
+![image](https://user-images.githubusercontent.com/23727670/188309888-5d9c4da1-5a2c-496e-b34e-a805b2c8b347.png)
+
 
 ## Installation
 
