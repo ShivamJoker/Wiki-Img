@@ -7,7 +7,8 @@
   "module": "lib/index.js",
   "types": "lib/index.d.ts",
   "bin": {
-    "wikiimg": "lib/cli.js"
+    "wikiimg": "lib/cli.js",
+    "wiki-img": "lib/cli.js"
   },
   "exports": {
     ".": "lib/index.cjs",
