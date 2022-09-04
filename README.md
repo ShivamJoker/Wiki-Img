@@ -1,3 +1,57 @@
+# Wiki-img
+
+Easily download wikipedia images in NodeJS
+
+## Installation
+
+```sh
+pnpm install wiki-img
+```
+
+```sh
+yarn add wiki-img
+```
+
+```sh
+npm install wiki-img
+```
+
+### Install globally
+
+```sh
+pnpm install -g wiki-img
+```
+
+## CLI Usage
+
+```sh
+npx wiki-img zuckerberg --log
+```
+
+### Outputs
+
+```json
+{
+  "id": 2844938,
+  "key": "Mark_Zuckerberg",
+  "title": "Mark Zuckerberg",
+  "excerpt": "Zuckerberg",
+  "matched_title": "Zuckerberg",
+  "description": "American internet entrepreneur and founder of Facebook",
+  "thumbnail": {
+    "mimetype": "image/jpeg",
+    "size": null,
+    "width": 161,
+    "height": 200,
+    "duration": null,
+    "url": "//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg/161px-Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg"
+  }
+}
+```
+
+Without `--log` you won't see any output in the terminal, the image will be
+saved to your current directory
+
 # How to use?
 
 ## Interfaces
@@ -37,7 +91,7 @@ Promise with info about the search
 
 #### Defined in
 
-index.ts:87
+[index.ts:87](https://github.com/ShivamJoker/Wiki-Img/blob/51a69bc/src/index.ts#L87)
 
 # Interface: Page
 
@@ -49,7 +103,7 @@ index.ts:87
 
 #### Defined in
 
-index.ts:19
+[index.ts:19](https://github.com/ShivamJoker/Wiki-Img/blob/51a69bc/src/index.ts#L19)
 
 ___
 
@@ -59,7 +113,7 @@ ___
 
 #### Defined in
 
-index.ts:18
+[index.ts:18](https://github.com/ShivamJoker/Wiki-Img/blob/51a69bc/src/index.ts#L18)
 
 ___
 
@@ -69,7 +123,7 @@ ___
 
 #### Defined in
 
-index.ts:15
+[index.ts:15](https://github.com/ShivamJoker/Wiki-Img/blob/51a69bc/src/index.ts#L15)
 
 ___
 
@@ -79,7 +133,7 @@ ___
 
 #### Defined in
 
-index.ts:16
+[index.ts:16](https://github.com/ShivamJoker/Wiki-Img/blob/51a69bc/src/index.ts#L16)
 
 ___
 
@@ -89,7 +143,7 @@ ___
 
 #### Defined in
 
-index.ts:20
+[index.ts:20](https://github.com/ShivamJoker/Wiki-Img/blob/51a69bc/src/index.ts#L20)
 
 ___
 
@@ -99,7 +153,7 @@ ___
 
 #### Defined in
 
-index.ts:17
+[index.ts:17](https://github.com/ShivamJoker/Wiki-Img/blob/51a69bc/src/index.ts#L17)
 
 # Interface: Thumbnail
 
@@ -111,7 +165,7 @@ index.ts:17
 
 #### Defined in
 
-index.ts:10
+[index.ts:10](https://github.com/ShivamJoker/Wiki-Img/blob/51a69bc/src/index.ts#L10)
 
 ___
 
@@ -121,7 +175,7 @@ ___
 
 #### Defined in
 
-index.ts:9
+[index.ts:9](https://github.com/ShivamJoker/Wiki-Img/blob/51a69bc/src/index.ts#L9)
 
 ___
 
@@ -131,7 +185,7 @@ ___
 
 #### Defined in
 
-index.ts:6
+[index.ts:6](https://github.com/ShivamJoker/Wiki-Img/blob/51a69bc/src/index.ts#L6)
 
 ___
 
@@ -141,7 +195,7 @@ ___
 
 #### Defined in
 
-index.ts:7
+[index.ts:7](https://github.com/ShivamJoker/Wiki-Img/blob/51a69bc/src/index.ts#L7)
 
 ___
 
@@ -151,7 +205,7 @@ ___
 
 #### Defined in
 
-index.ts:11
+[index.ts:11](https://github.com/ShivamJoker/Wiki-Img/blob/51a69bc/src/index.ts#L11)
 
 ___
 
@@ -161,4 +215,4 @@ ___
 
 #### Defined in
 
-index.ts:8
+[index.ts:8](https://github.com/ShivamJoker/Wiki-Img/blob/51a69bc/src/index.ts#L8)
