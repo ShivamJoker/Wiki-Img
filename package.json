@@ -1,7 +1,7 @@
 {
   "name": "wiki-img",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easily search & download wikipedia images (Zero dependency lib)",
   "main": "lib/index.cjs",
   "module": "lib/index.js",
