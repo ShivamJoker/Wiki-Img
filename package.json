@@ -3,7 +3,8 @@
   "type": "module",
   "version": "1.0.0",
   "description": "Easily search & download wikipedia images (Zero dependency lib)",
-  "main": "index.js",
+  "main": "lib/index.cjs",
+  "module": "lib/index.js",
   "types": "lib/index.d.ts",
   "bin": {
     "wikiimg": "lib/cli.js"
