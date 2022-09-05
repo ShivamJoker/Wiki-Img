@@ -13,7 +13,8 @@
   "exports": {
     ".": "./lib/index.cjs",
     "./mjs": "./lib/index.js",
-    "./lib": "./src/index.ts"
+    "./lib/*": "./lib/**",
+    "./src/*": "./src/**"
   },
   "scripts": {
     "build": "tsx scripts/build.ts",
