@@ -11,9 +11,9 @@
     "wiki-img": "lib/cli.js"
   },
   "exports": {
-    ".": "lib/index.cjs",
-    "./mjs": "lib/index.js",
-    "./lib": "src/index.ts"
+    ".": "./lib/index.cjs",
+    "./mjs": "./lib/index.js",
+    "./lib": "./src/index.ts"
   },
   "scripts": {
     "build": "tsx scripts/build.ts",
