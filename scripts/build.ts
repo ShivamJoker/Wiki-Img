@@ -1,10 +1,10 @@
 import * as swc from "@swc/core";
 import { readFile, writeFile } from "fs/promises";
+
 import dts from "npm-dts";
 
 const log = console.log;
 
-const { Generator } = dts;
 log(`
     ____        _ __    ___            
    / __ )__  __(_) /___/ (_)___  ____ _
@@ -45,7 +45,11 @@ const compile = async () => {
   log("=== Compiling finished ===\n");
 
   log("\n=== Generating type definitions ===");
-  await new Generator({ entry: "./src/index.ts", output: "./lib/" }).generate();
+  const generatedts = new dts.Generator({
+    entry: "./src/index.ts",
+    output: "./lib/index.d.ts",
+  });
+  await generatedts.generate();
   log("=== Type definitions generated ===\n");
 };
 
