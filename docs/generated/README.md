@@ -37,4 +37,4 @@ Promise with info about the search
 
 #### Defined in
 
-[index.ts:87](https://github.com/ShivamJoker/Wiki-Img/blob/d1a4f6f/src/index.ts#L87)
+[index.ts:87](https://github.com/ShivamJoker/Wiki-Img/blob/525e269/src/index.ts#L87)

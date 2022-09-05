@@ -93,7 +93,7 @@ Promise with info about the search
 
 #### Defined in
 
-[index.ts:87](https://github.com/ShivamJoker/Wiki-Img/blob/d1a4f6f/src/index.ts#L87)
+[index.ts:87](https://github.com/ShivamJoker/Wiki-Img/blob/525e269/src/index.ts#L87)
 
 # Interface: Page
 
@@ -105,7 +105,7 @@ Promise with info about the search
 
 #### Defined in
 
-[index.ts:19](https://github.com/ShivamJoker/Wiki-Img/blob/d1a4f6f/src/index.ts#L19)
+[index.ts:19](https://github.com/ShivamJoker/Wiki-Img/blob/525e269/src/index.ts#L19)
 
 ___
 
@@ -115,7 +115,7 @@ ___
 
 #### Defined in
 
-[index.ts:18](https://github.com/ShivamJoker/Wiki-Img/blob/d1a4f6f/src/index.ts#L18)
+[index.ts:18](https://github.com/ShivamJoker/Wiki-Img/blob/525e269/src/index.ts#L18)
 
 ___
 
@@ -125,7 +125,7 @@ ___
 
 #### Defined in
 
-[index.ts:15](https://github.com/ShivamJoker/Wiki-Img/blob/d1a4f6f/src/index.ts#L15)
+[index.ts:15](https://github.com/ShivamJoker/Wiki-Img/blob/525e269/src/index.ts#L15)
 
 ___
 
@@ -135,7 +135,7 @@ ___
 
 #### Defined in
 
-[index.ts:16](https://github.com/ShivamJoker/Wiki-Img/blob/d1a4f6f/src/index.ts#L16)
+[index.ts:16](https://github.com/ShivamJoker/Wiki-Img/blob/525e269/src/index.ts#L16)
 
 ___
 
@@ -145,7 +145,7 @@ ___
 
 #### Defined in
 
-[index.ts:20](https://github.com/ShivamJoker/Wiki-Img/blob/d1a4f6f/src/index.ts#L20)
+[index.ts:20](https://github.com/ShivamJoker/Wiki-Img/blob/525e269/src/index.ts#L20)
 
 ___
 
@@ -155,7 +155,7 @@ ___
 
 #### Defined in
 
-[index.ts:17](https://github.com/ShivamJoker/Wiki-Img/blob/d1a4f6f/src/index.ts#L17)
+[index.ts:17](https://github.com/ShivamJoker/Wiki-Img/blob/525e269/src/index.ts#L17)
 
 # Interface: Thumbnail
 
@@ -167,7 +167,7 @@ ___
 
 #### Defined in
 
-[index.ts:10](https://github.com/ShivamJoker/Wiki-Img/blob/d1a4f6f/src/index.ts#L10)
+[index.ts:10](https://github.com/ShivamJoker/Wiki-Img/blob/525e269/src/index.ts#L10)
 
 ___
 
@@ -177,7 +177,7 @@ ___
 
 #### Defined in
 
-[index.ts:9](https://github.com/ShivamJoker/Wiki-Img/blob/d1a4f6f/src/index.ts#L9)
+[index.ts:9](https://github.com/ShivamJoker/Wiki-Img/blob/525e269/src/index.ts#L9)
 
 ___
 
@@ -187,7 +187,7 @@ ___
 
 #### Defined in
 
-[index.ts:6](https://github.com/ShivamJoker/Wiki-Img/blob/d1a4f6f/src/index.ts#L6)
+[index.ts:6](https://github.com/ShivamJoker/Wiki-Img/blob/525e269/src/index.ts#L6)
 
 ___
 
@@ -197,7 +197,7 @@ ___
 
 #### Defined in
 
-[index.ts:7](https://github.com/ShivamJoker/Wiki-Img/blob/d1a4f6f/src/index.ts#L7)
+[index.ts:7](https://github.com/ShivamJoker/Wiki-Img/blob/525e269/src/index.ts#L7)
 
 ___
 
@@ -207,7 +207,7 @@ ___
 
 #### Defined in
 
-[index.ts:11](https://github.com/ShivamJoker/Wiki-Img/blob/d1a4f6f/src/index.ts#L11)
+[index.ts:11](https://github.com/ShivamJoker/Wiki-Img/blob/525e269/src/index.ts#L11)
 
 ___
 
@@ -217,4 +217,4 @@ ___
 
 #### Defined in
 
-[index.ts:8](https://github.com/ShivamJoker/Wiki-Img/blob/d1a4f6f/src/index.ts#L8)
+[index.ts:8](https://github.com/ShivamJoker/Wiki-Img/blob/525e269/src/index.ts#L8)
