@@ -8,7 +8,7 @@
 
 #### Defined in
 
-[index.ts:10](https://github.com/ShivamJoker/Wiki-Img/blob/525e269/src/index.ts#L10)
+[index.ts:10](https://github.com/ShivamJoker/Wiki-Img/blob/3d15d17/src/index.ts#L10)
 
 ___
 
@@ -18,7 +18,7 @@ ___
 
 #### Defined in
 
-[index.ts:9](https://github.com/ShivamJoker/Wiki-Img/blob/525e269/src/index.ts#L9)
+[index.ts:9](https://github.com/ShivamJoker/Wiki-Img/blob/3d15d17/src/index.ts#L9)
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 #### Defined in
 
-[index.ts:6](https://github.com/ShivamJoker/Wiki-Img/blob/525e269/src/index.ts#L6)
+[index.ts:6](https://github.com/ShivamJoker/Wiki-Img/blob/3d15d17/src/index.ts#L6)
 
 ___
 
@@ -38,7 +38,7 @@ ___
 
 #### Defined in
 
-[index.ts:7](https://github.com/ShivamJoker/Wiki-Img/blob/525e269/src/index.ts#L7)
+[index.ts:7](https://github.com/ShivamJoker/Wiki-Img/blob/3d15d17/src/index.ts#L7)
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 #### Defined in
 
-[index.ts:11](https://github.com/ShivamJoker/Wiki-Img/blob/525e269/src/index.ts#L11)
+[index.ts:11](https://github.com/ShivamJoker/Wiki-Img/blob/3d15d17/src/index.ts#L11)
 
 ___
 
@@ -58,4 +58,4 @@ ___
 
 #### Defined in
 
-[index.ts:8](https://github.com/ShivamJoker/Wiki-Img/blob/525e269/src/index.ts#L8)
+[index.ts:8](https://github.com/ShivamJoker/Wiki-Img/blob/3d15d17/src/index.ts#L8)
